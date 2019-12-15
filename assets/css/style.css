@@ -1,0 +1,31 @@
+.crystal{
+    width:23%;
+    height:30px;
+    float:left;
+    cursor:pointer;
+    text-align: center;
+}
+
+#ruby{
+    background-color: bisque;
+}
+
+#emerald{
+    background-color: blue;
+    color: white;
+}
+
+#saphire{
+    background-color: aqua;
+}
+
+#diamond{
+    background-color: blueviolet;
+    color:white;
+}
+
+#infoContainer{
+    border:1px solid black;
+    margin-top:10px;
+    margin-bottom:10px;
+}
